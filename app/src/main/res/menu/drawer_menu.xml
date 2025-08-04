@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Log out" />
+    <item
+        android:id="@+id/nav_check_all_walks"
+        android:title="Check all walks" />
+
+</menu>

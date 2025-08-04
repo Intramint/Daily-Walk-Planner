@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041862340433",
+    "project_id": "dailywalkplanner",
+    "storage_bucket": "dailywalkplanner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041862340433:android:ed27efba4d7844c526ad70",
+        "android_client_info": {
+          "package_name": "com.marcin.dailywalkplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnyUd0aAZ0snIUbLUfRrPSV6mkjmbpbOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily Walk Planner</string>
+    <string name="navigation_drawer_open">Otwórz menu</string>
+    <string name="navigation_drawer_close">Zamknij menu</string>
+</resources>
