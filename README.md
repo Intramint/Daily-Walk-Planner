@@ -1,4 +1,6 @@
 # Daily-Walk-Planner
 Aplikacja służy do porównywania tras pieszych w celu znalezienia najbardziej optymalnej ścieżki między dwoma punktami. Użytkownik może nagrywać i zapisywać swoje trasy, a następnie porównywać je pod względem długości i czasu przejścia. W trakcie nagrywania trasa jest zapisywana na bieżąco, z możliwością pauzy, anulowania lub korekty czasu (np. odjęcia przerw niezwiązanych z ruchem). Aplikacja wymagania logowania, a przejścia są zapisywane w chmurze, przypisane do konta. Aplikacja może nieco przypominać wiele aplikacji do analizy ścieżek, ale one są przeznaczone do sportu, natomiast ta aplikacja jest przede wszystkim do codziennego użytku, żeby wybrać trasę do pracy, szkoły czy na zakupy. Może się wydawać, że Google Maps jest w tym celu wystarczający, ponieważ wybiera on najkrótszą trasę. Jest to prawdziwe dla ruchu samochodem, ale dla ruchu pieszego nie uwzględnia długości postoju na światłach oraz wielu możliwych ścieżek, które nie są zapisane na mapach, np. między budynkami.
 
-Link do filmu prezentującego działanie: https://mega.nz/file/rjJj0ToC#3A3iIfn0pDNNFdid9W6Mw0sIQZfpARubWcnTeoO4WpY
+<img width="330" height="731" alt="obraz" src="https://github.com/user-attachments/assets/dab4f758-6ab8-49dc-b53e-c8cc5423e045" />
+
+Link do filmu prezentującego działanie: https://drive.google.com/file/d/1s2EPjiIGCLA_gw0KYOJhmQ4t5B1wt4Ps/view?usp=sharing
